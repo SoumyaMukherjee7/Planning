@@ -3,3 +3,6 @@ pandas
 numpy
 plotly
 openpyxl
+statsmodels
+prophet
+cmdstanpy
